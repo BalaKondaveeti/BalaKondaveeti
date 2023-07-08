@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Embedded Developer. So, I can work with everything from Python to FPGA.
+Full Stack Embedded Developer. So, I can basically work with everything from Python to FPGA. From recent stats, I have been working more with the **MERN** stack.
 
 
 ## 🌐 Socials:

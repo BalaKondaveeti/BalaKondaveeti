@@ -1,4 +1,4 @@
-# ⚠️:
+# ⚠️
 Currently projects are in private mode.
 
 # 💫 About Me:

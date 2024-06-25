@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Embedded Developer. So, I can basically work with everything from writing code to FPGA to AI.
+Full Stack Embedded Developer. So, I can basically work with everything from writing code on FPGA to AI.
 
 
 ## 🌐 Socials:

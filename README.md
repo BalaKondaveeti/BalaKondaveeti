@@ -1,4 +1,5 @@
 # 💫 About Me:
+Not main account!
 Full Stack Embedded Developer. So, I can basically work with everything from writing code on FPGA to AI.
 
 
